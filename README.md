@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rcout328/rcout328/output/snake.svg" alt="Snake animation" />
+<img src="Snack.yml" alt="Snake animation" />
 
 ###
